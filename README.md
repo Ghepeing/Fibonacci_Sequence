@@ -19,7 +19,7 @@
  1. Membuat file **activity_fibonacci.xml**. Membuatnya masuk ke folder **Project** -> **APP** -> **res** -> **layout**. Setelah itu di file layout klik kanan lalu pilih **New** -> **Layout Resource File** dan buat nama filenya menjadi "activity_fibonacci". <br>
  Berikut contoh tampilannya.<br>
  
- ![img](gambar/0.png)<br> 
+ ![img](0.png)<br> 
 
  - **SINTAKS activity_fibonacci.xml**
  ```xml
@@ -143,7 +143,7 @@
  4. Setelah itu masuk ke file **MainActivity.java**. File tersebut berada di **Project** -> **APP** -> **com.hello** -> **MainActivity**. <br>
  Berikut contoh gambar file tersebut berada.<br>
 
- ![img](gambar/9.png)<br>
+ ![img](9.png)<br>
  
  - **SINTAKS** MainActivity.java
 
@@ -321,16 +321,16 @@ public void countUp(View view) {
 ## TAMPILAN PROGRAM SAAT DI RUN
 
 - Tampilan awal<br>
-    ![img](gambar/1.png)<br>
+    ![img](1.png)<br>
     <br>
     <br>
 - Tampilan saat menginput Maksimal Fibonacci. Disini saya memberi contoh input "5"<br>
-    ![img](gambar/2.png)<br>
+    ![img](2.png)<br>
     <br>
     <br>
 
 - Tampilan Bilangan Fibonacci **Pertama** atau sama saja belum menekan button Count<br>
-    ![img](gambar/3.png)<br>
+    ![img](3.png)<br>
     <br>
     <br>
 
@@ -340,22 +340,22 @@ public void countUp(View view) {
     <br>
 
 - Tampilan Bilangan Fibonacci **ketiga** setelah menekan button Count<br>
-    ![img](gambar/5.png)<br>
+    ![img](5.png)<br>
     <br>
     <br>
 
 - Tampilan Bilangan Fibonacci **keempat** setelah menekan button Count<br>
-    ![img](gambar/6.png)<br>
+    ![img](6.png)<br>
     <br>
     <br>
 
 - Tampilan Bilangan Fibonacci **kelima** setelah menekan button Count<br>
-    ![img](gambar/7.png)<br>
+    ![img](7.png)<br>
     <br>
     <br>
 
 - Tampilan Bilangan Fibonacci jika sudah mencapai **Maks** yang sudah diinput. Jadi dibagian bawah ada pesan "Maksimum Fibonacci Tercapai" dan tidak dapat dilanjutkan lagi bilangan fibonacci tersebut<br>
-    ![img](gambar/8.png)<br>
+    ![img](8.png)<br>
     <br>
     <br>
 
